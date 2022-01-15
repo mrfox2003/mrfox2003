@@ -5,6 +5,13 @@
 - 👯 I’m an Electrical And Electronics Engineering Student
 
 
+## <b>Connect with me</b> 📱
+<a href="https://t.me/mrfox2003">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://mail.google.com/mail/u/0/#inbox.com/channels/niranjankannan2003@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.facebook.com/niranjan.baiju.33">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://gitlab.com/mrfox2003">![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
+<a href="https://twitter.com/mrfox2003">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://instagram.com/mrfox_2003">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
