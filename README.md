@@ -56,5 +56,12 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
+## <b> My Workspace </b>💻 
+![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+<br />
+
+
 ## <b>Contribution Graph 💹
 <img src="https://activity-graph.herokuapp.com/graph?username=mrfox2003&theme=react-dark" width="635" /> 
