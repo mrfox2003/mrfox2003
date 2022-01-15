@@ -7,13 +7,6 @@
 - 👯 I’m an Electrical And Electronics Engineering Student
 
 
-## <b>Connect with me</b> 📱
-<a href="https://t.me/mrfox2003">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://mail.google.com/mail/u/0/#inbox.com/channels/niranjankannan2003@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.facebook.com/niranjan.baiju.33">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href="https://gitlab.com/mrfox2003">![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
-<a href="https://twitter.com/mrfox2003">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
-<a href="https://instagram.com/mrfox_2003">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 ## <b>Languages and Tools </b>📘 🔧
 
@@ -27,6 +20,15 @@
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 <br />
+
+## <b>Connect with me</b> 📱
+<a href="https://t.me/mrfox2003">![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://mail.google.com/mail/u/0/#inbox.com/channels/niranjankannan2003@gmail.com">![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.facebook.com/niranjan.baiju.33">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://gitlab.com/mrfox2003">![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
+<a href="https://twitter.com/mrfox2003">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://instagram.com/mrfox_2003">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+
 
 ## <b>Spotify Playing </b>🎶
 <!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/q0t8lpxh0o25sgi4a33nc8r3e" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
