@@ -38,7 +38,7 @@
 
 
 ## <b>Contribution Graph 💹
-<img src="https://activity-graph.herokuapp.com/graph?username=mrfox2003&theme=react-dark" width="635" /> 
+<img src="https://activity-graph.herokuapp.com/graph?username=mrfox2003&theme=react-dark" width="520" /> 
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
