@@ -64,3 +64,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+
+![Footer image](https://raw.githubusercontent.com/mrfox2003/mrfox2003/master/assets/footer.png)
