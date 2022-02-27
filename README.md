@@ -6,7 +6,8 @@
 - 💞️ I’m looking to collaborate on Open source project
 - 👯 I’m an Electrical And Electronics Engineering Student
 
-
+## <b>Design Skills </b>🎇
+![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black)
 
 ## <b>Languages and Tools </b>📘 🔧
 
