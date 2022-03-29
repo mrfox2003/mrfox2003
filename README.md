@@ -32,11 +32,6 @@
 <a href="https://instagram.com/mrfox_2003">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 
-## <b>Spotify Playing </b>🎶
-<!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/q0t8lpxh0o25sgi4a33nc8r3e" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/q0t8lpxh0o25sgi4a33nc8r3e) <br>
-
 
 
 ## <b>Contribution Graph 💹
