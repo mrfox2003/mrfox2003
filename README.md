@@ -32,11 +32,6 @@
 <a href="https://instagram.com/mrfox_2003">![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 
-
-
-## <b>Contribution Graph 💹
-<img src="https://activity-graph.herokuapp.com/graph?username=mrfox2003&theme=react-dark" width="520" /> 
-
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
