@@ -3,9 +3,9 @@
 <h2> Hi there, I'm  N I R A N J A N !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-- 👀 I’m interested in CustomRom Building,Development
+- 👀 I’m interested in Custom Rom Building, Development
 - 💞️ I’m looking to collaborate on Open source project
-- 👯 I’m an Electrical And Electronics Engineering Student
+- 👯 I’m an Electrical And Electronics Engineer
 - 🌱 I’m currently learning python,java,c
 ## <b>Design Skills </b>🎇
 ![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black)
