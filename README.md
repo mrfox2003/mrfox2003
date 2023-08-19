@@ -6,7 +6,7 @@
 - 👀 I’m interested in Custom Rom Building, Development
 - 💞️ I’m looking to collaborate on Open source project
 - 👯 I’m an Electrical And Electronics Engineer
-- 🌱 I’m currently learning python,java,c
+
 ## <b>Design Skills </b>🎇
 ![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black)
 
