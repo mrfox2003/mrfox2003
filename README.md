@@ -59,7 +59,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-![Snake animation](https://github.com/mrfox2003/mrfox2003/blob/output/github-contribution-grid-snake.svg)
-
 
 ![Footer image](https://raw.githubusercontent.com/mrfox2003/mrfox2003/master/assets/footer.png)
