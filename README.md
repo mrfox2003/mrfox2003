@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Custom Rom & Linux Kernel Development
 - 💞️ I’m looking to collaborate on Open source projecs
-- 👯 I’m an Electrical And Electronics Engineer
+- 👯 I’m an Electrical And Electronics Engineering student
 
 ## <b>Design Skills </b>🎇
 ![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=black)
