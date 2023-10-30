@@ -1,4 +1,3 @@
-![Header image](https://raw.githubusercontent.com/mrfox2003/mrfox2003/master/assets/header.jpg)
 
 <h2> Hi there, I'm  N I R A N J A N !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
@@ -60,4 +59,3 @@
 </div>
 
 
-![Footer image](https://raw.githubusercontent.com/mrfox2003/mrfox2003/master/assets/footer.png)
