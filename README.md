@@ -1,5 +1,6 @@
 <a href="https://mrfox2003.github.io/">![HEADER](assets/header.png)</a>
-![SKILL](assets/skcontent.png)
+![SKILL](assets/skill.png)
+![SOCIAL](assets/social.png)
 <a href="https://mrfox2003.github.io/contact.html">![FOOTER](assets/footer.png)</a>
 
 <img src="https://komarev.com/ghpvc/?username=mrfox2003&style=flat-round&color=000000&label=Visitors">
